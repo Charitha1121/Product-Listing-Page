@@ -39,7 +39,7 @@ src/
 ##  Tech Stack
 
 - React + TypeScript  
-- Tailwind CSS (styling)  
+- CSS (styling)  
 - Lucide React (icons)  
 - Vite (build & dev server)  
 
