@@ -17,21 +17,22 @@ It features reusable components, filters, sorting, pagination, and full responsi
 - **Mock Data**: 24+ products with fields like `id, name, price, discountPrice, discountPercent, ratingValue, ratingCount, isHot, colors, category, imageUrl`.
 
 ---
+##  Project Structure
 
-## Project Structure
 src/
-├── components/
-│ ├── Navbar.tsx
-│ ├── Sidebar.tsx
-│ ├── ProductCard.tsx
-│ ├── Rating.tsx
-│ ├── Pagination.tsx
-│ ├── Footer.tsx
-├── data/
-│ └── products.ts
-├── App.tsx
-├── main.tsx
-└── index.css
+ ├─ components/
+ │   ├─ Navbar.tsx
+ │   ├─ Sidebar.tsx
+ │   ├─ ProductCard.tsx
+ │   ├─ Rating.tsx
+ │   ├─ Pagination.tsx
+ │   └─ Footer.tsx
+ ├─ data/
+ │   └─ products.ts
+ ├─ App.tsx
+ ├─ main.tsx
+ └─ index.css
+
 
 ---
 
